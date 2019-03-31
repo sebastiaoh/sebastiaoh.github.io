@@ -1,2 +1,0 @@
-# sebastiaoh.github.io
-portfolio
